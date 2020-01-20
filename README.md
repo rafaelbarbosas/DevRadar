@@ -6,8 +6,6 @@ Esse é um projeto que foi criado durante a Semana Oministack 10, da RocketSeat.
 
 O _backend_ é responsável por receber chamadas, tanto _Socket_ quanto _HTTP_, e responder com dados do servidor, cadastrando, listando e filtrando desenvolvedores.
 
-<img src="https://user-images.githubusercontent.com/40358789/72692069-a1e2e480-3b08-11ea-8553-3486a1079bfd.png?s=50" style="width:1000px;height:300px;" />
-_Interface web do **DevRadar**._
+<img src="https://user-images.githubusercontent.com/40358789/72692069-a1e2e480-3b08-11ea-8553-3486a1079bfd.png?s=50" style="width:1000px;height:300px;"/><br/> Interface web do <strong>DevRadar</strong>.
 
-<img src="https://user-images.githubusercontent.com/40358789/72692158-203f8680-3b09-11ea-80fd-9db61176d6b5.jpeg?s=50" style="width:1000px;height:300px;" />
-_Interface mobile do **DevRadar**._
+<img src="https://user-images.githubusercontent.com/40358789/72692158-203f8680-3b09-11ea-80fd-9db61176d6b5.jpeg?s=50" style="width:1000px;height:300px;" /><br/>Interface mobile do <strong>DevRadar</strong>.
