@@ -1,1 +1,7 @@
-# OMNISTACK_10
+# DevRadar
+
+É um aplicativo que cadastra desenvolvedores com seu perfil no _GitHub_, a latitude, a longitude e as tecnologias que o desenvolvedor utiliza. O _app_ consegue **cadastrar** novos _devs_ (desenvolvedores), pela web e mostrar uma lista de devs na página _web_. Ele também é capaz de, no lado nativo, **mostrar os devs num mapa**, segundo seus endereços, e redirecionar o usuário para o perfil do _dev_ clicado. Além dessas funcionalidades, o usuário do aplicativo pode filtrar os _devs_ num raio de 10 km que usam certas tecnologias, tecnologias tais que o usuário nos dá.
+
+Esse é um projeto que foi criado durante a Semana Oministack 10, da RocketSeat. Contém uma _API_ _REST_ como _backend_ construída em **Node.js**; uma versão **web** construída em _ReactJS_; e uma versão **mobile**, em _React Native_.
+
+O _backend_ é responsável por receber chamadas, tanto _Socket_ quanto _HTTP_, e responder com dados do servidor, cadastrando, listando e filtrando desenvolvedores.
